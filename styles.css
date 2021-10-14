@@ -24,11 +24,10 @@ div#main-page-title {
 
 #about-text {
     padding: 25px;
-    font-weight: 100px;
 }
 
 #about-text-1 {
-    text-shadow: 1ch;
+    text-shadow: 1px 1px gray;
     font-weight: bolder;
 }
 
