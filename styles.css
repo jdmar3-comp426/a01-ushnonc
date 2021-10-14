@@ -44,3 +44,7 @@ div#main-page-title {
 .hyperlinks:hover {
     color: #d19901; 
 }
+
+#center-align {
+    text-align: center;
+}
