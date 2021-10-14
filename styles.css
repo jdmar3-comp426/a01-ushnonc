@@ -1,6 +1,7 @@
 .main-div {
     text-align: center;
     background-color: #7bafd4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 div#main-page-title {
@@ -41,9 +42,19 @@ div#main-page-title {
 }
 
 .hyperlinks:hover {
-    color: #d19901; 
+    color: #d19901;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #center-align {
     text-align: center;
+}
+
+.unordered-list {
+    padding: 5px;
+}
+
+li#italic-bold-list-item {
+    padding: 10px;
+    padding-left: 5px;
 }
