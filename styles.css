@@ -1,0 +1,60 @@
+.main-div {
+    text-align: center;
+    background-color: #7bafd4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div#main-page-title {
+    margin: 0;
+    padding: 100px;
+}
+
+#main-page-title {
+    margin: 50px;
+    padding: 50px;
+    border:black;
+}
+
+.return-block {
+    text-align:center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    min-height: 100%;
+}
+
+#about-text {
+    padding: 25px;
+}
+
+#about-text-1 {
+    text-shadow: 1px 1px gray;
+    font-weight: bolder;
+}
+
+#italic-list-item {
+    font-style: italic;
+}
+
+#italic-bold-list-item {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.hyperlinks:hover {
+    color: #d19901;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#center-align {
+    text-align: center;
+}
+
+.unordered-list {
+    padding: 5px;
+}
+
+li#italic-bold-list-item {
+    padding: 10px;
+    padding-left: 5px;
+}
